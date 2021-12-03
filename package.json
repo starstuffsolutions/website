@@ -1,0 +1,18 @@
+{
+  "name": "@starstuffsolutions/website",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.0",
+    "vite": "^2.6.14"
+  },
+  "dependencies": {
+    "modern-normalize": "^1.1.0",
+    "starstuff-components": "^4.0.0",
+    "starstuff-style": "^1.1.19"
+  }
+}
